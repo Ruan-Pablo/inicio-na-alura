@@ -61,3 +61,7 @@ Autores do projeto.
 Ele aparecerá como uma descrição do projeto no repositório
 
 É cada alteração feita e salva no repositório
+
+# VS Code Online ( Clound )
+
+Utilizando a tecla de atalho ´´´ . ´´´ em qualquer <b>repositorio</b> no github ele abre esse "VS Onlinte"
