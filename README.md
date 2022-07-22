@@ -71,14 +71,30 @@ Utilizando a tecla de atalho ´´´ . ´´´ em qualquer <b>repositorio</b> no g
 
 > Forma de fazer commits por comandos no terminal
 
-Para carregar um repositório ´´´git clone 'link' do code´´´
+Para carregar um repositório 
 
-Para carregar atualizações do repositorio ´´´git pull 'link'´´´
+´´´git clone 'link' do code´´´
 
-Para subir os arquivos atualizados ´´´git push origin main´´´
+Para carregar atualizações do repositorio 
+
+´´´git pull 'link'´´´
+
+Para subir os arquivos atualizados 
+
+´´´git push origin main´´´
+
+Para monstrar o histórico dos commit 
+
+>detalhado
+
+´´´git log´´´
+
+>visão geral
+
+´´´git log --oneline´´´
 
 # DIFF
 
 > Termo muito usado entre usuarios do GitHub
 
-Mostrar o que foi <b>modificado</b> no projeto: <b>Histórioco</b>
+Mostrar o que foi <b>modificado</b> no projeto: <b>Histórico</b>
