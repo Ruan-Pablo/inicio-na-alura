@@ -68,3 +68,17 @@ Ele aparecerá como uma descrição do projeto no repositório
 Utilizando a tecla de atalho ´´´ . ´´´ em qualquer <b>repositorio</b> no github ele abre esse "VS Onlinte"
 
 # GIT
+
+> Forma de fazer commits por comandos no terminal
+
+Para carregar um repositório ´´´git clone 'link' do code´´´
+
+Para carregar atualizações do repositorio ´´´git pull 'link'´´´
+
+Para subir os arquivos atualizados ´´´git push origin main´´´
+
+# DIFF
+
+> Termo muito usado entre usuarios do GitHub
+
+Mostrar o que foi <b>modificado</b> no projeto: <b>Histórioco</b>
