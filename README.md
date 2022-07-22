@@ -66,3 +66,5 @@ Ele aparecerá como uma descrição do projeto no repositório
 # VS Code Online ( Clound )
 
 Utilizando a tecla de atalho ´´´ . ´´´ em qualquer <b>repositorio</b> no github ele abre esse "VS Onlinte"
+
+# GIT
