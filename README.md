@@ -73,13 +73,19 @@ Utilizando a tecla de atalho ´´´ . ´´´ em qualquer <b>repositorio</b> no g
 
 Para carregar um repositório 
 
+>carrega repositório
+
 ´´´git clone 'link' do code´´´
 
 Para carregar atualizações do repositorio 
 
+>baixa atualizações
+
 ´´´git pull 'link'´´´
 
 Para subir os arquivos atualizados 
+
+>update
 
 ´´´git push origin main´´´
 
